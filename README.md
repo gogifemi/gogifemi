@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gökce Kavel! 👋
 
-<!--
-**gogifemi/gogifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about combining **social sciences** and **technology** to solve real-world problems. My journey started with a deep interest in human behavior and societal structures, leading me to pursue a **master's in social sciences**. However, my lifelong curiosity about technology eventually guided me to transition into **data science**, where I found my true calling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🎓 **Background:** Master's in Social Sciences with experience in research and analysis.
+- 💡 **Transition:** Completed a comprehensive **data science bootcamp**, equipping myself with hands-on skills in machine learning, data analysis, and visualization.
+- 💻 **What Drives Me:** I enjoy applying data science to uncover insights that bridge the gap between technology and social impact.
+- 🌱 **Currently Exploring:** Applications of AI in social sciences and operational efficiency.
+- 🎯 **Goal:** To use data to create impactful solutions in **product analytics**, **HR analytics**, and more.
+- ✍️ **Hobbies:** Writing essays, exploring data-driven storytelling, and continuously learning.
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, SQL, C++
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Skills:** Machine Learning, Data Visualization, EDA, Statistical Analysis
+
+---
+
+✨ I believe that **data is the key** to understanding the past and shaping the future. Let’s innovate together!
