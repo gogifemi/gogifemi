@@ -17,7 +17,7 @@ I'm passionate about combining **social sciences** and **technology** to solve r
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, SQL, C++
+- **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
 - **Skills:** Machine Learning, Data Visualization, EDA, Statistical Analysis
 
