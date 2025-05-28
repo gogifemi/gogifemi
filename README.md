@@ -9,7 +9,7 @@ I'm passionate about combining **social sciences** and **technology** to solve r
 - 🎓 **Background:** Master's in Social Sciences with experience in research and analysis.
 - 💡 **Transition:** Completed a comprehensive **data science bootcamp**, equipping myself with hands-on skills in machine learning, data analysis, and visualization.
 - 💻 **What Drives Me:** I enjoy applying data science to uncover insights that bridge the gap between technology and social impact.
-- 🌱 **Currently Working:** Trying to establish my portfolio while taking full-time German language classes.
+- 🌱 **Currently Working:** Started to search jobs and soon I will be adding new projects to build my portfolio.
 - 🎯 **Goal:** To use data to create impactful solutions in **product analytics**, **HR analytics**, **business analytics**, and more.
 - ✍️ **Hobbies:** Writing essays, exploring data-driven storytelling, continuously learning and dancing.
 
