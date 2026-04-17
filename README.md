@@ -1,5 +1,12 @@
 # Hi, I’m Gökce Kavel 👋  
-Founder of gik studio
+Founder of gik studio  
+
+🌍 Languages:
+- 🇬🇧 English (current)
+- 🇩🇪 [Deutsch](README_DE.md)
+- 🇹🇷 [Türkçe](README_TR.md)
+
+---
 
 I help startups and small businesses — as well as growing companies — build digital systems that actually work — from websites and apps to data-driven solutions.
 
@@ -18,25 +25,6 @@ With a background in sociology and Euroculture, I combine an understanding of pe
 
 ---
 
-## 🧠 My Approach
-
-I don’t just build features — I focus on solving real problems.
-
-In practice, this means:
-- understanding your users  
-- identifying what actually drives growth  
-- and building solutions that are practical, not overengineered  
-
----
-
-## 🔧 Tools & Technologies
-
-Python, SQL, C#, JavaScript, FastAPI  
-Pandas, Scikit-learn, TensorFlow  
-Web & app development, data analysis, automation systems  
-
----
-
 ## 🤝 How I Work
 
 gik studio is a founder-led studio, supported by a small network of collaborators.  
@@ -44,4 +32,4 @@ This allows me to stay flexible, move fast, and scale when needed.
 
 ---
 
-If you're looking for someone who combines **analytical thinking with execution**, let's talk.
+👉 Visit: https://gikstudio.com
