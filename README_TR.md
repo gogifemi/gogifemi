@@ -1,4 +1,4 @@
-# Merhaba, ben Gökce Kavel 👋  
+# Merhaba, ben Gökçe Kavel 👋  
 gik studio’nun kurucusu  
 
 🌍 Languages:
