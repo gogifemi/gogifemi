@@ -27,7 +27,7 @@ With a background in sociology and Euroculture, I combine an understanding of pe
 
 * **[Rechnio – Freelancer Toolkit](https://rechnio.gikstudio.com):** A specialized invoicing tool built from scratch to help newly self-employed people manage their billing easily.
 * **[Havva Handmade](https://havvahandmade.gikstudio.com):** A digital catalog for a handmade ceramics brand, designed for local sales via WhatsApp & Instagram.
-* **[Cafehub](cafehub-v1.vercel.app):** A concept project showcasing a digital platform tailored for cafes and local coffee shops.
+* **[Cafehub](https://cafehub-v1.vercel.app):** A concept project showcasing a digital platform tailored for cafes and local coffee shops.
 
 ---
 
