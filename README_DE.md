@@ -8,27 +8,25 @@ Gründerin von gik studio
 
 ---
 
-Ich unterstütze Startups und kleine Unternehmen sowie wachsende Firmen dabei, digitale Lösungen zu entwickeln, die wirklich funktionieren — von Websites und Apps bis hin zu datenbasierten Systemen.
+Ich schlage die Brücke zwischen Daten und der digitalen Welt. Ich helfe lokalen Unternehmen, Startups und frisch Selbstständigen dabei, digitale Systeme aufzubauen, die wirklich funktionieren — ganz ohne verwirrenden Technik-Jargon.
 
-Mein Fokus liegt auf praktischen Lösungen, die Wachstum fördern — ohne unnötige Komplexität.
-
-Mit meinem Hintergrund in Soziologie und Euroculture verbinde ich ein Verständnis für Menschen und Märkte mit praktischen technischen Fähigkeiten in Entwicklung, Data Science und Automatisierung.
+Mit meinem Hintergrund in Soziologie und Euroculture verbinde ich ein tiefes Verständnis für Menschen und Märkte mit praktischen technischen Fähigkeiten in der Entwicklung und Datenanalyse.
 
 ---
 
-## 🌟 Was ich mache
+## Was ich mache
 
-- Moderne, performante Websites und E-Commerce-Plattformen entwickeln  
-- Individuelle Apps und skalierbare digitale Lösungen erstellen  
-- Digitale Marketingstrategien planen und umsetzen  
-- Datenbasierte Systeme, Dashboards und Prognosemodelle entwickeln  
+Web- & App-Entwicklung: Aufbau sauberer, responsiver und robuster digitaler Schaufenster für lokale Geschäfte.
+Daten & Analytics: Einrichtung einfacher, verständlicher Dashboards, um das Kundenverhalten besser zu verstehen.
+Automatisierung & Tools: Entwicklung maßgeschneiderter Workflow- und Verwaltungstools für Freelancer.
 
 ---
 
-## 🤝 Arbeitsweise
+## Ausgewählte Projekte
 
-gik studio ist ein founder-geführtes Studio mit einem flexiblen Netzwerk.  
-Das ermöglicht schnelle Umsetzung und Skalierbarkeit.
+[Rechnio – Freelancer Toolkit](rechnio.giktsudio.com): Ein speziell entwickeltes Rechnungstool, das frisch Selbstständigen hilft, ihre Rechnungen einfach zu verwalten.
+[Havva Handmade](havvahandmade.gikstudio.com): Ein digitaler Katalog für eine Marke mit handgefertigter Keramik, konzipiert für lokale Verkäufe über WhatsApp & Instagram.
+[Cafehub](https://cafehub-v1.vercel.app/): Ein Konzeptprojekt, das eine maßgeschneiderte digitale Plattform für Cafés und lokale Coffeeshops zeigt.
 
 ---
 
