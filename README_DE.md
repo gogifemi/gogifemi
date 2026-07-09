@@ -27,7 +27,7 @@ Mit meinem Hintergrund in Soziologie und Euroculture verbinde ich ein tiefes Ver
 
 * **[Rechnio – Freelancer Toolkit](https://rechnio.gikstudio.com):** Ein speziell entwickeltes Rechnungstool, das frisch Selbstständigen hilft, ihre Rechnungen einfach zu verwalten.
 * **[Havva Handmade](https://havvahandmade.gikstudio.com):** Ein digitaler Katalog für eine Marke mit handgefertigter Keramik, konzipiert für lokale Verkäufe über WhatsApp & Instagram.
-* **[Cafehub](cafehub-v1.vercel.app):** Ein Konzeptprojekt, das eine maßgeschneiderte digitale Plattform für Cafés und lokale Coffeeshops zeigt.
+* **[Cafehub](https://cafehub-v1.vercel.app):** Ein Konzeptprojekt, das eine maßgeschneiderte digitale Plattform für Cafés und lokale Coffeeshops zeigt.
 
 ---
 
