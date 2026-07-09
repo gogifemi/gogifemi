@@ -1,35 +1,38 @@
-# Merhaba, ben Gökçe Kavel 👋  
-gik studio’nun kurucusu  
+# Merhaba, Ben Gökçe Kavel 👋
 
-🌍 Languages:
-- 🇬🇧 [English](README.md)
-- 🇩🇪 [Deutsch](README_DE.md)
-- 🇹🇷 Türkçe (mevcut)
+**Veri Odaklı Geliştirici & gik studio Kurucusu**
 
----
-
-Startuplar ve küçük işletmelerin yanı sıra büyüyen şirketler için gerçekten işe yarayan dijital çözümler geliştiriyorum — web sitelerinden uygulamalara ve veri odaklı sistemlere kadar.
-
-Gereksiz karmaşıklık yerine, büyümeyi destekleyen pratik çözümlere odaklanıyorum.
-
-Sosyoloji ve Euroculture geçmişim sayesinde insan davranışlarını ve pazar dinamiklerini anlayarak, bunu teknik becerilerimle birleştiriyorum.
+Languages:
+* 🇬🇧 [English](./README.md)
+* 🇩🇪 [Deutsch](./README_DE.md)
+* 🇹🇷 Türkçe (şu an)
 
 ---
 
-## 🌟 Neler Yapıyorum
+Veri ile dijital dünya arasındaki köprüyü kuruyorum. Yerel işletmelerin, girişimlerin ve serbest çalışanların gerçekten işe yarayan dijital sistemler oluşturmasına yardımcı oluyorum — kafa karıştırıcı teknolojik terimler olmadan.
 
-- Modern ve yüksek performanslı web siteleri ve e-ticaret platformları geliştirme  
-- Özel uygulamalar ve ölçeklenebilir dijital çözümler oluşturma  
-- Dijital pazarlama stratejileri geliştirme ve uygulama  
-- Veri odaklı sistemler, dashboard’lar ve tahmin modelleri oluşturma  
+Sosyoloji ve Euroculture geçmişimle, insan ve piyasa anlayışımı, geliştirme ve veri alanlarındaki pratik teknik becerilerimle birleştiriyorum.
 
 ---
 
-## 🤝 Çalışma Şeklim
+### Neler Yapıyorum
 
-gik studio, esnek bir iş ağıyla desteklenen founder-led bir yapıdır.  
-Bu sayede hızlı ve ölçeklenebilir çözümler sunulur.
+* **Web & Uygulama Geliştirme:** Yerel işletmeler için temiz, duyarlı ve sağlam dijital vitrinler (web siteleri) oluşturmak.
+* **Veri & Analitik:** Müşteri davranışını anlamanıza yardımcı olacak basit, anlaşılır analiz panoları (dashboard) kurmak.
+* **Otomasyon & Araçlar:** Serbest çalışanlar için özel iş akışı ve yönetim araçları geliştirmek.
 
 ---
 
-👉 Web sitesi: https://gikstudio.com
+### Öne Çıkan Projeler
+
+* **[Rechnio – Freelancer Toolkit](https://rechnio.gikstudio.com):** Yeni serbest çalışanların faturalarını kolayca yönetmelerine yardımcı olmak için sıfırdan oluşturulmuş özel bir faturalandırma aracı.
+* **[Havva Handmade](https://havvahandmade.gikstudio.com):** El yapımı seramik ve takı markası için WhatsApp & Instagram üzerinden yerel satışları destekleyen dijital bir katalog.
+* **[Cafehub]:** Kafeler ve yerel kahve dükkanları için özel olarak tasarlanmış dijital bir platformu sergileyen konsept bir proje.
+
+---
+
+### Nasıl Çalışıyorum
+
+gik studio, küçük bir güvenilir işbirlikçi ağı tarafından desteklenen, kurucu liderliğinde bir stüdyodur. Bu yapı esnek kalmamı, hızlı hareket etmemi ve müşterilerime doğrudan, kişiselleştirilmiş bir iletişim sunmamı sağlıyor.
+
+**Ziyaret Edin:** [https://gikstudio.com](https://gikstudio.com)
