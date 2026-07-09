@@ -27,7 +27,7 @@ Sosyoloji ve Euroculture geçmişimle, insan ve piyasa anlayışımı, geliştir
 
 * **[Rechnio – Freelancer Toolkit](https://rechnio.gikstudio.com):** Yeni serbest çalışanların faturalarını kolayca yönetmelerine yardımcı olmak için sıfırdan oluşturulmuş özel bir faturalandırma aracı.
 * **[Havva Handmade](https://havvahandmade.gikstudio.com):** El yapımı seramik ve takı markası için WhatsApp & Instagram üzerinden yerel satışları destekleyen dijital bir katalog.
-* **[Cafehub](cafehub-v1.vercel.app):** Kafeler ve yerel kahve dükkanları için özel olarak tasarlanmış dijital bir platformu sergileyen konsept bir proje.
+* **[Cafehub](https://cafehub-v1.vercel.app):** Kafeler ve yerel kahve dükkanları için özel olarak tasarlanmış dijital bir platformu sergileyen konsept bir proje.
 
 ---
 
