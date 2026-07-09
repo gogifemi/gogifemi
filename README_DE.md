@@ -1,10 +1,11 @@
-# Hi, ich bin Gökce Kavel 👋  
-Gründerin von gik studio  
+# Hi, ich bin Gökce Kavel 👋
 
-🌍 Languages:
-- 🇬🇧 [English](README.md)
-- 🇩🇪 Deutsch (aktuell)
-- 🇹🇷 [Türkçe](README_TR.md)
+**Data-Driven Developer & Gründerin von gik studio**
+
+Languages:
+* 🇬🇧 [English](./README.md)
+* 🇩🇪 Deutsch (aktuell)
+* 🇹🇷 [Türkçe](./README_TR.md)
 
 ---
 
@@ -14,20 +15,24 @@ Mit meinem Hintergrund in Soziologie und Euroculture verbinde ich ein tiefes Ver
 
 ---
 
-## Was ich mache
+### Was ich mache
 
-Web- & App-Entwicklung: Aufbau sauberer, responsiver und robuster digitaler Schaufenster für lokale Geschäfte.
-Daten & Analytics: Einrichtung einfacher, verständlicher Dashboards, um das Kundenverhalten besser zu verstehen.
-Automatisierung & Tools: Entwicklung maßgeschneiderter Workflow- und Verwaltungstools für Freelancer.
-
----
-
-## Ausgewählte Projekte
-
-[Rechnio – Freelancer Toolkit](rechnio.giktsudio.com): Ein speziell entwickeltes Rechnungstool, das frisch Selbstständigen hilft, ihre Rechnungen einfach zu verwalten.
-[Havva Handmade](havvahandmade.gikstudio.com): Ein digitaler Katalog für eine Marke mit handgefertigter Keramik, konzipiert für lokale Verkäufe über WhatsApp & Instagram.
-[Cafehub](https://cafehub-v1.vercel.app/): Ein Konzeptprojekt, das eine maßgeschneiderte digitale Plattform für Cafés und lokale Coffeeshops zeigt.
+* **Web- & App-Entwicklung:** Aufbau sauberer, responsiver und robuster digitaler Schaufenster für lokale Geschäfte.
+* **Daten & Analytics:** Einrichtung einfacher, verständlicher Dashboards, um das Kundenverhalten besser zu verstehen.
+* **Automatisierung & Tools:** Entwicklung maßgeschneiderter Workflow- und Verwaltungstools für Freelancer.
 
 ---
 
-👉 Website: https://gikstudio.com
+### Ausgewählte Projekte
+
+* **[Rechnio – Freelancer Toolkit](https://rechnio.gikstudio.com):** Ein speziell entwickeltes Rechnungstool, das frisch Selbstständigen hilft, ihre Rechnungen einfach zu verwalten.
+* **[Havva Handmade](https://havvahandmade.gikstudio.com):** Ein digitaler Katalog für eine Marke mit handgefertigter Keramik, konzipiert für lokale Verkäufe über WhatsApp & Instagram.
+* **[Cafehub]:** Ein Konzeptprojekt, das eine maßgeschneiderte digitale Plattform für Cafés und lokale Coffeeshops zeigt.
+
+---
+
+### Wie ich arbeite
+
+gik studio wird von mir als Gründerin geführt und von einem kleinen Netzwerk vertrauensvoller Partner unterstützt. Dadurch bleibe ich flexibel, kann schnell agieren und meinen Kunden eine direkte, persönliche Kommunikation bieten.
+
+**Besuche:** [https://gikstudio.com](https://gikstudio.com)
